@@ -1,0 +1,52 @@
+[main] DEBUG com.loggerDemo.LoggerDemo.CalculateInterest  - This is DEBUG Statement
+[main] INFO  com.loggerDemo.LoggerDemo.CalculateInterest  - This is INFO statement
+[main] WARN  com.loggerDemo.LoggerDemo.CalculateInterest  - This is WARN Statement
+[main] ERROR com.loggerDemo.LoggerDemo.CalculateInterest  - This is FATAL Statement
+[main] FATAL com.loggerDemo.LoggerDemo.CalculateInterest  - This is FATAL Statement
+[main] DEBUG com.loggerDemo.LoggerDemo.CalculateInterest  - This is DEBUG Statement
+[main] INFO  com.loggerDemo.LoggerDemo.CalculateInterest  - This is INFO statement
+[main] WARN  com.loggerDemo.LoggerDemo.CalculateInterest  - This is WARN Statement
+[main] ERROR com.loggerDemo.LoggerDemo.CalculateInterest  - This is FATAL Statement
+[main] FATAL com.loggerDemo.LoggerDemo.CalculateInterest  - This is FATAL Statement
+[main] INFO  com.loggerDemo.LoggerDemo.CalculateInterest  - Choose either option 1 or 2 :
+
+[main] INFO  com.loggerDemo.LoggerDemo.CalculateInterest  - 1.Simple Interest
+
+[main] INFO  com.loggerDemo.LoggerDemo.CalculateInterest  - 2.Compound Interest
+
+[main] INFO  com.loggerDemo.LoggerDemo.CalculateInterest  - Enter Principle Amount : 
+[main] INFO  com.loggerDemo.LoggerDemo.CalculateInterest  - Enter Rate : 
+[main] INFO  com.loggerDemo.LoggerDemo.CalculateInterest  - Enter Time Period : 
+[main] INFO  com.loggerDemo.LoggerDemo.CalculateInterest  - Total Interest : 2.0
+2020-02-20 23:15:46 DEBUG CalculateInterest:16 - This is DEBUG Statement
+  2020-02-20 23:15:46 INFO  CalculateInterest:17 - This is INFO statement
+  2020-02-20 23:15:46 WARN  CalculateInterest:18 - This is WARN Statement
+  2020-02-20 23:15:46 ERROR CalculateInterest:19 - This is ERROR Statement
+  2020-02-20 23:15:46 FATAL CalculateInterest:20 - This is FATAL Statement
+  2020-02-20 23:15:46 INFO  CalculateInterest:22 - Choose either option 1 or 2 :
+1.Simple Interest
+2.Compound Interest
+
+  2020-02-20 23:16:04 DEBUG CalculateInterest:16 - This is DEBUG Statement
+  2020-02-20 23:16:04 INFO  CalculateInterest:17 - This is INFO statement
+  2020-02-20 23:16:04 WARN  CalculateInterest:18 - This is WARN Statement
+  2020-02-20 23:16:04 ERROR CalculateInterest:19 - This is ERROR Statement
+  2020-02-20 23:16:04 FATAL CalculateInterest:20 - This is FATAL Statement
+  2020-02-20 23:16:04 INFO  CalculateInterest:22 - Choose either option 1 or 2 :
+1.Simple Interest
+2.Compound Interest
+
+  2020-02-20 23:16:30 DEBUG CalculateInterest:16 - This is DEBUG Statement
+  2020-02-20 23:16:30 INFO  CalculateInterest:17 - This is INFO statement
+  2020-02-20 23:16:30 WARN  CalculateInterest:18 - This is WARN Statement
+  2020-02-20 23:16:30 ERROR CalculateInterest:19 - This is ERROR Statement
+  2020-02-20 23:16:30 FATAL CalculateInterest:20 - This is FATAL Statement
+  2020-02-20 23:16:30 INFO  CalculateInterest:22 - Choose either option 1 or 2 :
+1.Simple Interest
+2.Compound Interest
+
+  2020-02-20 23:16:34 INFO  CalculateInterest:15 - Enter Principle Amount : 
+  2020-02-20 23:16:36 INFO  CalculateInterest:17 - Enter Rate : 
+  2020-02-20 23:16:37 INFO  CalculateInterest:19 - Enter Time Period : 
+  2020-02-20 23:16:38 INFO  CalculateInterest:26 - Total Interest : 221.6052
+  
