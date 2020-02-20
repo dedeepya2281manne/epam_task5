@@ -1,0 +1,48 @@
+[main] DEBUG com.loggerDemo1.LoggerDemo1.HouseConstruction  - This is DEBUG Statement
+[main] INFO  com.loggerDemo1.LoggerDemo1.HouseConstruction  - This is INFO statement
+[main] WARN  com.loggerDemo1.LoggerDemo1.HouseConstruction  - This is WARN Statement
+[main] ERROR com.loggerDemo1.LoggerDemo1.HouseConstruction  - This is ERROR Statement
+[main] FATAL com.loggerDemo1.LoggerDemo1.HouseConstruction  - This is FATAL Statement
+[main] INFO  com.loggerDemo1.LoggerDemo1.HouseConstruction  - Choose Materials to Construct a House : 
+1.1200/- for Standard Materials
+2.1500/- for Above Standard Materials
+3.1800/- for High Standard Materials
+4.2500/- for High Standard and Fully Automated
+
+[main] INFO  com.loggerDemo1.LoggerDemo1.HouseConstruction  - Enter Area for Construction : 
+[main] INFO  com.loggerDemo1.LoggerDemo1.HouseConstruction  - Cost for Construction is : 14400.0
+
+2020-02-20 23:14:25 DEBUG HouseConstruction:18 - This is DEBUG Statement
+  2020-02-20 23:14:25 INFO  HouseConstruction:19 - This is INFO statement
+  2020-02-20 23:14:25 WARN  HouseConstruction:20 - This is WARN Statement
+  2020-02-20 23:14:25 ERROR HouseConstruction:21 - This is ERROR Statement
+  2020-02-20 23:14:25 FATAL HouseConstruction:22 - This is FATAL Statement
+  2020-02-20 23:14:25 INFO  HouseConstruction:23 - Choose Materials to Construct a House : 
+1.1200/- for Standard Materials
+2.1500/- for Above Standard Materials
+3.1800/- for High Standard Materials
+4.2500/- for High Standard and Fully Automated
+
+  2020-02-20 23:14:51 DEBUG HouseConstruction:18 - This is DEBUG Statement
+  2020-02-20 23:14:51 INFO  HouseConstruction:19 - This is INFO statement
+  2020-02-20 23:14:51 WARN  HouseConstruction:20 - This is WARN Statement
+  2020-02-20 23:14:51 ERROR HouseConstruction:21 - This is ERROR Statement
+  2020-02-20 23:14:51 FATAL HouseConstruction:22 - This is FATAL Statement
+  2020-02-20 23:14:51 INFO  HouseConstruction:23 - Choose Materials to Construct a House : 
+1.1200/- for Standard Materials
+2.1500/- for Above Standard Materials
+3.1800/- for High Standard Materials
+4.2500/- for High Standard and Fully Automated
+
+  2020-02-20 23:16:21 DEBUG HouseConstruction:18 - This is DEBUG Statement
+  2020-02-20 23:16:21 INFO  HouseConstruction:19 - This is INFO statement
+  2020-02-20 23:16:21 WARN  HouseConstruction:20 - This is WARN Statement
+  2020-02-20 23:16:21 ERROR HouseConstruction:21 - This is ERROR Statement
+  2020-02-20 23:16:21 FATAL HouseConstruction:22 - This is FATAL Statement
+  2020-02-20 23:16:21 INFO  HouseConstruction:23 - Choose Materials to Construct a House : 
+1.1200/- for Standard Materials
+2.1500/- for Above Standard Materials
+3.1800/- for High Standard Materials
+4.2500/- for High Standard and Fully Automated
+
+  
